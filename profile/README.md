@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Mipot-Hi-Tech/.github/blob/main/profile/images/Mipot.png" />
+</p>
+
 ### MIPOT DESIGN, MANUFACTURE AND SELL WIRELESS COMMUNICATION MODULES USING DIFFERENT PROTOCOLS FOR MANY IoT SECTORS AND APPLICATIONS IN THE WORLDWIDE MARKETS
 
 #### Mipot has been active in the electronics industry since 50 years. This has made us a reliable supplier.

@@ -20,6 +20,6 @@ Mipot also serves the market by offering high-quality EMS and ODM services and i
 For more information, please visit our different information and support channels:
 - [Mipot website](https://www.mipot.com)
 
-<p align="center">
-  <img src="https://github.com/Mipot-Hi-Tech/.github/blob/main/profile/images/Logo%20gruppo_1.svg" />
+<p align="right">
+  <img width="400px" height="400px" src="https://github.com/Mipot-Hi-Tech/.github/blob/main/profile/images/Logo%20gruppo_1.svg" />
 </p>

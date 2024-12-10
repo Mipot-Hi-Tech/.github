@@ -1,5 +1,5 @@
 <p align="center">
-  <img width=328 src="https://github.com/Mipot-Hi-Tech/.github/blob/main/profile/images/Mipot.svg" />
+  <img width=154 src="https://github.com/Mipot-Hi-Tech/.github/blob/main/profile/images/Mipot.svg" />
 </p>
 
 ### MIPOT DESIGN, MANUFACTURE AND SELL WIRELESS COMMUNICATION MODULES USING DIFFERENT PROTOCOLS FOR MANY IoT SECTORS AND APPLICATIONS IN THE WORLDWIDE MARKETS
